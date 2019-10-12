@@ -6,7 +6,7 @@ class Kid
   
   attr_accessor :name
  
- 
+  
   
   
   
